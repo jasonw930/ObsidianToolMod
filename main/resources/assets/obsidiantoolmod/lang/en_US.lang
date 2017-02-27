@@ -1,0 +1,20 @@
+item.ItemObsidianStick.name=Obsidian Stick
+item.ItemDimBlazeRod.name=Dim Blaze Rod
+item.ItemObsiditeIngot.name=Obsidite Ingot
+item.ItemRawObsidianOre.name=Raw Obsidian Ore
+item.ItemObsidianOre.name=Obsidian Ore
+item.ItemToolCore.name=Tool Core
+
+item.ToolObsidianSword.name=Obsidian Sword
+item.ToolObsidianPickaxe.name=Obsidian Pickaxe
+item.ToolObsidianAxe.name=Obsidian Axe
+item.ToolObsidianSpade.name=Obsidian Spade
+item.ToolObsidianHoe.name=Obsidian Hoe
+
+tile.BlockCompressedObsidian.name=Compressed Obsidian
+tile.BlockObsiditeOre.name=Obsidite Ore
+tile.BlockAdvancedCraftingTable.name=Advanced Crafting Table
+
+itemGroup.TabBlocks=Obsidian Blocks
+itemGroup.TabItems=Obsidian Items
+itemGroup.TabTools=Obsidian Tools
